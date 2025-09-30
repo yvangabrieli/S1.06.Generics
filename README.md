@@ -32,5 +32,5 @@ All exercises must be executed from the command line or via an IDE.
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yvangabrieli/S1.03.Java_Collections
+git clone https://github.com/yvangabrieli/S1.06.Generics
 ```
